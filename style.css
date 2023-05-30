@@ -1,0 +1,156 @@
+body{
+margin:0;
+background-color:#f2e5d9;
+}
+
+.topnav {
+    margin:0;
+    overflow: hidden;
+    background-color:#f2e5d9;
+  }
+  
+  .topnav a {
+    font-family: 'Ubuntu', sans-serif;
+    margin:0;
+    float: right;
+    color: #28180d;
+    text-align: center;
+    padding: 40px 60px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover{
+   color:#92674b;
+  }
+  
+ #logo{
+    float:left;
+    font-size: 30px;
+ }
+
+ .big-heading{
+    padding:80px 150px 250px 160px;
+    font-family: 'Merienda', cursive;
+    font-family: 'Merienda', cursive;
+    font-size: 4rem;
+    line-height: 1.5;
+    color:  #230f02;
+ }
+
+ #book{
+    position:absolute;
+    right:140px;
+    top:150px;
+ }
+ .book-img{
+    border-radius: 8px;
+ }
+
+ #button{
+    position:absolute;
+    left:160px;
+    top:480px;
+ }
+ .search:hover{
+   background-color:#92674b;
+ }
+
+ .search {
+    background-color:  #230f02;
+    border: none;
+    color: white;
+    padding: 15px 180px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  #buy,#about{
+   background-color:#f5f5f5;
+   /* padding:200px; */
+  }
+
+  .bd-heading,.g-heading{
+   background-color: #f5f5f5;
+   text-align:center;
+   color: #230f02;
+   padding: 100px 100px 600px;
+   font-size: 3rem;
+   font-family: 'Ubuntu', sans-serif;
+  }
+.g-heading{
+background-color:#f2e5d9;
+}
+.a-heading{
+   text-align: center;
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 3rem;
+   padding-top: 100px;
+   color: #230f02;
+}
+.a-body{
+   padding:100px;
+   line-height: 1.5;
+   font-size: 18px;
+   font-family: 'Comfortaa', cursive;
+}
+  #b1{
+   position:absolute;
+   left:160px;
+   top:1000px;
+  }
+  #b2{
+   position:absolute;
+   left:33%;
+   top:1000px;
+  }
+  #b3{
+   position:absolute;
+   right:32%;
+   top:1000px;
+  }
+  #b4{
+   position:absolute;
+   right:160px;
+   top:1000px;
+  }
+  #b5{
+   position:absolute;
+   left:160px;
+   top:1800px;
+  }
+  #b6{
+   position:absolute;
+   left:33%;
+   top:1800px;
+  }
+  #b7{
+   position:absolute;
+   right:32%;
+   top:1800px;
+  }
+  #b8{
+   position:absolute;
+   right:160px;
+   top:1800px;
+  }
+
+
+.txt{
+   text-align: center;
+   font-size: 20px;
+}
+
+/* Footer section */
+#footer{
+    padding:5% 11%;
+    text-align: center;
+    background-color:#f2e5d9;
+}
+.footer-icons{
+    margin:20px 10px;
+}
